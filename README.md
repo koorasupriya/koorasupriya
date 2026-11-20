@@ -11,6 +11,7 @@
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
+| [enterprise-chat-assistant](https://github.com/koorasupriya/enterprise-chat-assistant) | Full-stack AI chat app with streaming replies, Stop/Retry and dark mode; memory, RAG citations and MCP actions in progress | React, FastAPI, Server-Sent Events, Claude |
 | [rag-knowledge-assistant](https://github.com/koorasupriya/rag-knowledge-assistant) | Heading-aware chunking, embeddings, vector search and answers with source citations | Python, FastAPI, Milvus, Claude |
 | [mcp-agent-orchestrator](https://github.com/koorasupriya/mcp-agent-orchestrator) | Enterprise assistant that routes requests to MCP tools for tickets, approvals and directory lookups | Python, MCP, SQLite, Claude |
 | [llm-observability-kit](https://github.com/koorasupriya/llm-observability-kit) | OpenTelemetry traces and metrics for LLM calls, with Phoenix and Grafana dashboards | OpenTelemetry, Phoenix, Prometheus, Grafana |
@@ -31,4 +32,4 @@
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/supriya-koora) · koorasupriya@gmail.com
+[Portfolio](https://koorasupriya.github.io) · [LinkedIn](https://linkedin.com/in/supriya-koora) · koorasupriya@gmail.com
